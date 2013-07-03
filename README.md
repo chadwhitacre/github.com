@@ -5,7 +5,7 @@ unofficial, though of course I would be only too happy to transfer ownership to 
 
 ### New Plan
 
-Go see https://github.com/isaacs/github instead.
+Go see https://github.com/isaacs/github instead (started a month earlier).
 
 For posterity, a lively Twitter conversation is to be found here:
 
